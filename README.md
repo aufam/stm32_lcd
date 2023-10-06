@@ -17,5 +17,5 @@ target_link_libraries(${PROJECT_NAME}.elf lcd)
 ```
 * (Optional) Add the submodule:
 ```bash
-git submodule add https://github.com/aufam/stm32_lcd.git your_project_path/Middlewares/Third_Party/
+git submodule add https://github.com/aufam/stm32_lcd.git your_project_path/Middlewares/Third_Party/stm32_lcd
 ```
